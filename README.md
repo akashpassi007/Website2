@@ -1,2 +1,2 @@
 # Tindog
-Click here to visit website https://akashpassi007.github.io/web2/
+Click here to visit website https://akashpassi007.github.io/Website2/
